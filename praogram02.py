@@ -6,4 +6,4 @@ area=width * length
 perimeter=2 * (width + length)
 print("พื้นที่ =", area)
 print("เส้นรอบรูป =", perimeter)
-print("Author by Varanchid")
+print("Author by Varanchid11 610")
